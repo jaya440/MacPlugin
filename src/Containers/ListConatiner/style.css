@@ -1,0 +1,26 @@
+.listContainer{
+    position: relative;
+}
+
+.listContainer .listTab ul{
+    padding:0 10px;
+    background: rgb(0, 111, 148);
+}
+
+.ms-Pivot-link{
+    color: white;
+    padding:0 20px
+}
+
+.ms-Pivot-link:hover{
+    color: #d3d3d3
+}
+
+.ms-Pivot-link.is-selected{
+    background: white;
+    color: rgb(0, 111, 148)
+}
+
+.ms-Pivot-link.is-selected:before{
+    border-bottom: none;
+}

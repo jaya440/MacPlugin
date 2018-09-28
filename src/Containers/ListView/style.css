@@ -1,0 +1,14 @@
+.selectedList{
+    position: absolute;
+    color: white;
+    right:20px;
+    top:10px;
+}
+
+.ms-List-cell:nth-child(even) .ms-DetailsRow{
+    background: rgb(234, 234, 234)
+}
+
+.ms-List-cell:nth-child(even) .ms-DetailsRow:hover{
+    background: rgb(248, 248, 248)
+}

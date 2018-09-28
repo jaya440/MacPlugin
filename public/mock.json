@@ -1,0 +1,66 @@
+[
+    {
+      "id": "5bae3ad28c7af9307b433d01",
+      "location": "Berwind",
+      "floor": "6th floor",
+      "building": "Denver office",
+      "locationType": "Conference Room",
+      "capacity": 38
+    },
+    {
+      "id": "5bae3ad2445d9c417990377c",
+      "location": "Rivers",
+      "floor": "6th floor",
+      "building": "Denver office",
+      "locationType": "Projector Meeting Room",
+      "capacity": 23
+    },
+    {
+      "id": "5bae3ad26adfaff460d50f09",
+      "location": "Cotopaxi",
+      "floor": "6th floor",
+      "building": "Denver office",
+      "locationType": "Video ConferenceRoom",
+      "capacity": 26
+    },
+    {
+      "id": "5bae3ad28a1a4198ffa4d518",
+      "location": "Venice",
+      "floor": "12th floor",
+      "building": "Denver office",
+      "locationType": "Conference Room",
+      "capacity": 27
+    },
+    {
+      "id": "5bae3ad25bc049e80e25c6bc",
+      "location": "Crisman",
+      "floor": "6th floor",
+      "building": "Denver office",
+      "locationType": "Projector Meeting Room",
+      "capacity": 25
+    },
+    {
+      "id": "5bae3ad22eaf3d5f39ee465f",
+      "location": "Bynum",
+      "floor": "12th floor",
+      "building": "Denver office",
+      "locationType": "Projector Meeting Room",
+      "capacity": 50
+    },
+    {
+      "id": "5bae3ad2d829c0ec3758b680",
+      "location": "Bascom",
+      "floor": "12th floor",
+      "building": "Denver office",
+      "locationType": "Video ConferenceRoom",
+      "capacity": 29
+    },
+    {
+      "id": "5bae3ad2fb4deb7fd92b581b",
+      "location": "Kennedyville",
+      "floor": "6th floor",
+      "building": "Denver office",
+      "locationType": "Video ConferenceRoom",
+      "capacity": 29
+    }
+  ]
